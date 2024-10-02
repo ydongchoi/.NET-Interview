@@ -35,7 +35,9 @@ Supporting different OS: You can develop and execute ASP.NET apps on Windows, Li
 
 ### Reference
 https://github.com/StefanTheCode/dotnet_interview_questions
+
 https://www.turing.com/interview-questions/dot-net#basic-net-interview-questions-and-answers
+
 https://www.geeksforgeeks.org/asp-net-interview-questions/
 
 ## C#
