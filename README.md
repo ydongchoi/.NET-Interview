@@ -24,6 +24,15 @@ ASP.NET (Active Server Pages . NET) is a progressive new programming **framework
 
 .NET Framework is used to create a variety of applications and services like Console, Web, and Windows, etc. But ASP.NET is only used to create web applications and web services. That’s why we termed ASP.NET as a subset of the .NET Framework.
 
+### 5. What is ASP .NET Features?
+There are a lot of reasons which make ASP.NET popular among developers. Some reasons are listed below:
+
+**Extending .NET Framework**: ASP.NET is a subset of the .NET Framework as it extends the .NET Framework with some libraries and tools to develop web apps. The thing that it adds to the .NET Framework is Libraries for common web patterns like MVC, Editor Extensions, the base framework to process the web requests, and web-page templating syntax like Razor, etc.
+**Performance**: It is faster than the other web frameworks available in the market.
+**Backend Code**: With the help of ASP.NET you can write the backend code for data access and any logic in C#.
+**Dynamic Pages**: In ASP.NET, Razor provides the syntax for developing dynamic web pages with the help of C# and HTML. ASP.NET can be integrated with JavaScript and it also includes the frameworks like React and Angular for the SPA(Single Page Application.)
+Supporting different OS: You can develop and execute ASP.NET apps on Windows, Linux, Docker, and macOS. The Visual Studio provides the tools to build .NET apps with different OS.
+
 ### Reference
 https://github.com/StefanTheCode/dotnet_interview_questions
 https://www.turing.com/interview-questions/dot-net#basic-net-interview-questions-and-answers
