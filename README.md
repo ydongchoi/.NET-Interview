@@ -47,7 +47,7 @@ ASP.MVC is a **web application framework** that is lightweight and has high test
 **Controller**: Controllers act as an **interface between Model and consider components** to process all the business logic and incoming requests, manipulate data using the Model component, and interact with the Views to render the ultimate output. For instance, the Customer controller will handle all the interactions and inputs from the Customer View and update the database using the Customer Model. An equivalent controller is going to be wont to view the Customer data.
 
 ### 7. Which would be the right framework to be used ASP.NET MVC or ASP.NET Web API?
-**ASP.Net MVC** is used to make **web applications** that return the view and data but  **Asp.Net Web API** is used to make all  **HTTP services** in a simple and basic way that returns only **information**, not view.
+**ASP.Net MVC** is used to make **web applications** that return the **view and data** but  **Asp.Net Web API** is used to make all  **HTTP services** in a simple and basic way that returns only **information**, not view.
 
 Web API helps to build REST-ful services over the .NET Framework, and it additionally supports content negotiation, self-facilitating which are not in MVC.
 Web API additionally deals with returning information specifically design like JSON, XML, or some other dependent on the Accept header in the solicitation, and you don’t stress over that. MVC just returns information in JSON design utilizing Json Result.
