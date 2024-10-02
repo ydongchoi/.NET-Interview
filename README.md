@@ -37,6 +37,22 @@ There are a lot of reasons which make ASP.NET popular among developers. Some rea
 
 **Supporting different OS**: You can develop and execute ASP.NET apps on Windows, Linux, Docker, and macOS. The Visual Studio provides the tools to build .NET apps with different OS.
 
+### 6. What is ASP.NET MVC framework?
+ASP.MVC is a **web application framework** that is lightweight and has high testable features. ASP.NET supports 3 different types of components namely Model, View, and Controller.
+
+**Model Layer**: The Model component corresponds to all or any of **the data-related logic** that the user works with. This will represent either the **info that’s being transferred between the View and Controller components** or the other **business logic-related data**. For instance, a Customer object will retrieve the customer information from the database, manipulate it, and update its data back to the database or use it to render data.
+
+**View Layer**: The View component is employed for all the **UI logic** of the appliance. For instance, the Customer view will include all the UI components like text boxes, dropdowns, etc. that the ultimate user interacts with.
+
+**Controller**: Controllers act as an **interface between Model and consider components** to process all the business logic and incoming requests, manipulate data using the Model component, and interact with the Views to render the ultimate output. For instance, the Customer controller will handle all the interactions and inputs from the Customer View and update the database using the Customer Model. An equivalent controller is going to be wont to view the Customer data.
+
+### 7. Which would be the right framework to be used ASP.NET MVC or ASP.NET Web API?
+**ASP.Net MVC** is used to make **web applications** that return the view and data but  **Asp.Net Web API** is used to make all  **HTTP services** in a simple and basic way that returns only **information**, not view.
+
+Web API helps to build REST-ful services over the .NET Framework, and it additionally supports content negotiation, self-facilitating which are not in MVC.
+Web API additionally deals with returning information specifically design like JSON, XML, or some other dependent on the Accept header in the solicitation, and you don’t stress over that. MVC just returns information in JSON design utilizing Json Result.
+
+
 ### Reference
 https://github.com/StefanTheCode/dotnet_interview_questions
 
